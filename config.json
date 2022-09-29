@@ -1,0 +1,9 @@
+{
+    "seeking": true,
+    "type": "Artwork",
+    "minAmount": 0,
+    "maxAmount": 1000,
+    "minTotalCompleted": 5,
+    "sort": "popularity",
+    "sleepTime": 5
+}
